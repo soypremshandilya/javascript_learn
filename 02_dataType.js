@@ -1,6 +1,5 @@
-let name = "Prem"
-let age = 23
-let country = null
+let name = "Prem";
+let age = 23;
+let country = null;
 
-
-console.log(type of name);
+console.log(typeof name);
